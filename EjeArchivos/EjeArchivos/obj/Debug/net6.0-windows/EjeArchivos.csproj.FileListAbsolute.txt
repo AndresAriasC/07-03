@@ -1,0 +1,17 @@
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\bin\Debug\net6.0-windows\EjeArchivos.exe
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\bin\Debug\net6.0-windows\EjeArchivos.deps.json
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\bin\Debug\net6.0-windows\EjeArchivos.runtimeconfig.json
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\bin\Debug\net6.0-windows\EjeArchivos.dll
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\bin\Debug\net6.0-windows\EjeArchivos.pdb
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.csproj.AssemblyReference.cache
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.AndresEjemploArchivos.resources
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.csproj.GenerateResource.cache
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.AssemblyInfoInputs.cache
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.AssemblyInfo.cs
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.dll
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\refint\EjeArchivos.dll
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.pdb
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\EjeArchivos.genruntimeconfig.cache
+C:\Users\JADPA-22\Documents\EjeArchivos\EjeArchivos\obj\Debug\net6.0-windows\ref\EjeArchivos.dll
